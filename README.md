@@ -1,19 +1,21 @@
-<h1 align="center">Hi there, I'm wenxq 👋</h1>
+# 👋 Hi, I'm wenxq
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Open+Source+Enthusiast;Building+things+that+matter&font=Fira%20Code&center=true&width=440&height=45&color=2ea043&vCenter=true&size=22&pause=1000">
-</p>
+I'm learning embedded development and electronics.
+
+### 🔧 My interests
+- Microcontrollers (Arduino, ESP32)
+- Soldering and working with electronics
+- Solving problems (hardware & software)
+
+### 📚 Current focus
+Learning C++ for microcontrollers and building my first projects.
+
+### 🛠️ Tools I'm learning
+`Arduino` `C++` `Python`
 
 ---
 
-### 🧑‍💻 About me
-
-```python
-class wenxq:
-    def init(self):
-        self.role = "Embedded Software Engineer"
-        self.focus_2026 = "Learn Python and C++"
-        self.hobbies = ["Coding", "Building tools", "soldering&fixing electronic", "Solving problems"]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! 🙌")
+<!-- 
+  My projects will appear here when they're ready.
+  Still learning — more coming soon.
+-->****
